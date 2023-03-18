@@ -1,0 +1,16 @@
+{
+  "name": "06-girl",
+  "version": "1.0.0",
+  "description": "Girl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "dead-server --host=localhost --port=4050"
+  },
+  "keywords": [],
+  "author": "Ausra <munduswebstudio@gmail.com> (https://github.com/AusraMundus)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
